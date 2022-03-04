@@ -1,0 +1,38 @@
+
+.faqs{
+position: relative;
+width: 1440px;
+height: 1024px;
+
+
+background: #708090;
+    
+}
+.spacing{
+position: absolute;
+width: 1440px;
+height: 781px;
+left: 0px;
+top: 107px;
+
+background: #F8C8DC;
+}
+#component{
+position: sticky;
+position: -webkit-sticky;
+top: 0px;
+}
+#line1{
+    position: sticky;
+    position: -webkit-sticky;
+    top: 15px;
+}
+#box1{
+    position: absolute;
+    width: 873px;
+    height: 90px;
+    left: 202px;
+    top: 56px;
+
+background: #708090;
+}
